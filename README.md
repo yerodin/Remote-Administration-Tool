@@ -1,4 +1,4 @@
-# Computer Security - Remote Administration Tool
+# Computer Security - Post Exploitation Tool (Originally By SIRUS-THE-VIRUS)
 
 **I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.**
 
